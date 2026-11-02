@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nihat 👋
 
-<!--
-**nihat-nurmammad/nihat-nurmammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Informatics student at Corvinus University of Budapest.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Learning SQL, Python and Power BI for data analytics
+- Building portfolio projects (database systems, data analysis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Python, C, SQL
+- **Tools:** Git, GitHub
+- **Languages spoken:** Azerbaijani, English
+
+## Contact
+- GitHub: [@nihat-nurmammad](https://github.com/nihat-nurmammad)
